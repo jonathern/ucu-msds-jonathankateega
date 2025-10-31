@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Student",
+        "student_id": "UG001",
+        "name": "Alice Namatovu",
+        "marks": {
+            "Math": 85,
+            "English": 78,
+            "Science": 90
+        },
+        "total": 253,
+        "average": 84.33,
+        "grade": "A"
+    },
+    {
+        "type": "Student",
+        "student_id": "UG002",
+        "name": "Brian Ouma",
+        "marks": {
+            "Math": 65,
+            "English": 58,
+            "Science": 62
+        },
+        "total": 185,
+        "average": 61.67,
+        "grade": "C"
+    },
+    {
+        "type": "PostgraduateStudent",
+        "student_id": "PG101",
+        "name": "Catherine Ayo",
+        "marks": {
+            "Research Methods": 88,
+            "Statistics": 82
+        },
+        "total": 170,
+        "average": 85.0,
+        "grade": "A",
+        "research_topic": "Multi-modal Sentiment Analysis",
+        "thesis_result": "Revise"
+    }
+]

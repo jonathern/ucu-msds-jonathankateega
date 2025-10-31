@@ -1,0 +1,28 @@
+[
+    {
+        "type": "Car",
+        "plate_number": "UAX123A",
+        "owner": "Jonathan Kateega",
+        "engine_cc": 2000,
+        "base_tax": 50000,
+        "calculated_tax": 50100.0,
+        "passenger_capacity": 5
+    },
+    {
+        "type": "Truck",
+        "plate_number": "UBD456B",
+        "owner": "Mary Nansubuga",
+        "engine_cc": 4000,
+        "base_tax": 80000,
+        "calculated_tax": 81200.0,
+        "load_capacity": 12000
+    },
+    {
+        "type": "boda",
+        "plate_number": "UEX789C",
+        "owner": "Peter Okello",
+        "engine_cc": 150,
+        "base_tax": 30000,
+        "calculated_tax": 50000
+    }
+]

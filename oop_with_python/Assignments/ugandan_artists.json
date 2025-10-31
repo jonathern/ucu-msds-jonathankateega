@@ -1,0 +1,37 @@
+[
+    {
+        "artist": "Azawi",
+        "track_name": "Quinamino",
+        "popularity": 85,
+        "play_count": 100000,
+        "country": "UG"
+    },
+    {
+        "artist": "Sheebah",
+        "track_name": "Enyenene",
+        "popularity": 80,
+        "play_count": 95000,
+        "country": "UG"
+    },
+    {
+        "artist": "Fik Fameica",
+        "track_name": "Kutama",
+        "popularity": 75,
+        "play_count": 90000,
+        "country": "UG"
+    },
+    {
+        "artist": "Azawi",
+        "track_name": "Nakyuka",
+        "popularity": 78,
+        "play_count": 85000,
+        "country": "UG"
+    },
+    {
+        "artist": "Foreign Artist",
+        "track_name": "Global Hit",
+        "popularity": 90,
+        "play_count": 200000,
+        "country": "US"
+    }
+]
